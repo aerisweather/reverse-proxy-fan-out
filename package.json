@@ -1,6 +1,6 @@
 {
   "name": "reverse-proxy-fan-out",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Reverse-proxy requests to multiple servers, so that every request goes to every server",
   "main": "main.js",
   "scripts": {
