@@ -7,7 +7,7 @@
     "test": "mocha --recursive test/spec"
   },
   "author": "Edan Schwartz <eschwartz@aerisweather.com>",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "engines" : {
     "node" : ">=6.0.0"
   },
